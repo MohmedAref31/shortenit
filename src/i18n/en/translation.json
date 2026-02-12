@@ -1,0 +1,31 @@
+{
+  "validation": {
+    "email": "Email must be a valid email address",
+    "required": "{{field}} is required",
+    "minLength": "{{field}} must be at least {{min}} characters",
+    "maxLength": "{{field}} must not exceed {{max}} characters"
+  },
+  "auth": {
+    "register": {
+      "success": "User registered successfully",
+      "emailExists": "Email already exists",
+      "failed": "Registration failed"
+    },
+    "login": {
+      "success": "Login successful",
+      "invalidCredentials": "Invalid email or password",
+      "failed": "Login failed"
+    }
+  },
+  "url": {
+    "created": "Short URL created successfully",
+    "notFound": "URL not found",
+    "expired": "This URL has expired",
+    "invalid": "Invalid URL"
+  },
+  "common": {
+    "error": "An error occurred",
+    "notFound": "Resource not found",
+    "unauthorized": "Unauthorized access"
+  }
+}
