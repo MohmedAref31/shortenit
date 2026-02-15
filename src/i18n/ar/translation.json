@@ -3,7 +3,8 @@
     "email": "يجب أن يكون البريد الإلكتروني عنوان بريد إلكتروني صالح",
     "required": "{{field}} مطلوب",
     "minLength": "يجب أن يكون {{field}} على الأقل {{min}} أحرف",
-    "maxLength": "يجب ألا يتجاوز {{field}} {{max}} حرف"
+    "maxLength": "يجب ألا يتجاوز {{field}} {{max}} حرف",
+    "strongPassword": "يجب أن يكون كلمة المرور قوية"
   },
   "auth": {
     "register": {

@@ -11,6 +11,7 @@ export type I18nTranslations = {
             "required": string;
             "minLength": string;
             "maxLength": string;
+            "strongPassword": string;
         };
         "auth": {
             "register": {

@@ -3,7 +3,8 @@
     "email": "Email must be a valid email address",
     "required": "{{field}} is required",
     "minLength": "{{field}} must be at least {{min}} characters",
-    "maxLength": "{{field}} must not exceed {{max}} characters"
+    "maxLength": "{{field}} must not exceed {{max}} characters",
+    "strongPassword": "Password must be strong"
   },
   "auth": {
     "register": {
